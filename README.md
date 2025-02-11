@@ -34,6 +34,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+![image](https://github.com/user-attachments/assets/a0a377e5-c7f9-4649-ac71-24304a2b85eb)
 
 ## Security
 - Avoid using generated passwords in insecure locations.
